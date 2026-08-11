@@ -1,0 +1,9 @@
+admin
+both
+ceshi
+manager
+role1
+root
+test
+tomcat
+user

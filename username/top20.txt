@@ -1,0 +1,17 @@
+ceshi
+demo
+guest
+manage
+manager
+root
+superadmin
+superman
+superuser
+sys
+sysadmin
+system
+test
+user
+user1
+web
+www

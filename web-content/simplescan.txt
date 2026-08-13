@@ -1,4 +1,4 @@
-
+# simplescan.txt pls use dirsearch tools to dirscan
 ‎
 _
 __
@@ -48914,6 +48914,7 @@ data?get=prodServerGen
 data.7z
 data.db
 data.mdb
+data.php
 data.rar
 data.sql
 data.sql.gz

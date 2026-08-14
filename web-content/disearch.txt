@@ -1,9 +1,3 @@
-# simplescan.txt pls use dirsearch tools to dirscan
-‎
-_
-__
-___
-_____
 ___graphql
 ___mysqldumper
 ___old

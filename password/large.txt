@@ -33376,6 +33376,7 @@ $yoshiki$
 123456@123
 123456@123.com
 123456@a
+123456@A
 123456@Aa
 123456@abc
 123456@Abc
@@ -116730,6 +116731,8 @@ $yoshiki$
 520.1314
 520.520
 520.520.
+520@123
+520@123!
 520@1314
 520*_*yangyan
 520+1314!
@@ -140813,6 +140816,7 @@ $yoshiki$
 7891011
 789101112
 78910924
+78910j
 78910jqk
 78910jqka
 789110
@@ -152121,6 +152125,7 @@ $yoshiki$
 89108138
 8910891
 89108910
+8910jq
 8910jqka
 891100
 891101
@@ -153702,6 +153707,7 @@ $yoshiki$
 910929
 910930
 91099109
+910jqk
 911
 911.adac
 9110
@@ -162909,6 +162915,8 @@ abcdefg
 ABCDEFG
 abcdefg!
 abcdefg.
+abcdefg@123
+abcdefg@123!
 abcdefg0
 abcdefg00
 abcdefg000
@@ -166054,6 +166062,7 @@ admin@1$
 Admin@1$
 ADMIN@1$
 admin@100
+admin@110
 admin@111
 Admin@111
 ADMIN@111
@@ -166092,6 +166101,7 @@ Admin@1111$
 ADMIN@1111$
 admin@111111
 Admin@111111
+admin@119
 admin@12
 Admin@12
 ADMIN@12
@@ -166517,6 +166527,7 @@ admin@2025!
 Admin@2025!
 admin@2025#
 Admin@2025#
+admin@2026
 Admin@2026!
 admin@321
 Admin@321
@@ -172779,6 +172790,7 @@ aislinn
 aisonguo
 Aisonguo1130
 aissatou
+aistar123
 aistar123<>!N
 aisteru
 AISU1314
@@ -176333,6 +176345,7 @@ angel!
 angel.
 Angel@1001
 angel@123
+Angel@123
 Angel@1980
 angel*
 angel#1
@@ -195515,7 +195528,9 @@ caitn123
 caiwang
 caiwei
 caiwen
+caiwu@123
 caiwu#163ns.com
+caiwu123
 caixia
 caixiang
 caixianlan
@@ -203967,6 +203982,8 @@ clothing
 clotilde
 cloud
 cloud@123
+Cloud@123
+Cloud@123!
 cloud@2015
 cloud1
 cloud1218
@@ -212179,6 +212196,7 @@ Demo@123
 Demo@1234
 DEMO1
 demo123
+Demo123
 demo1234
 demo123456
 demo2
@@ -233388,6 +233406,9 @@ gocubs
 gocubs1
 god
 God
+god@123
+God@123
+God@123!
 god101
 god111
 god123
@@ -233465,6 +233486,7 @@ godisable
 godisagirl
 godisdead
 Godisdog
+godisgirl
 Godisgod1
 godisgoo
 godisgood
@@ -235595,6 +235617,9 @@ gseqcoamyk
 gsewfmck
 gSEwfmCK
 Gsfh8dSss
+gsfkpt
+gsfkpt@123
+gsfkpt123
 gsg@fgh
 gsgba368
 gsgsgs
@@ -237419,6 +237444,7 @@ hague
 haguenau
 hah
 haha
+haha@123
 haha00
 haha0713
 haha1
@@ -240547,6 +240573,7 @@ hello!!
 hello.
 hello@123
 Hello@123
+Hello@123!
 hello@1234
 Hello@1234
 Hello@12345
@@ -251613,7 +251640,9 @@ it
 it.com
 it.com.cn
 It'sMay2018
+it@123
 it@aEZV9fDiiJhm
+it123
 IT1231
 it123445
 it123456
@@ -281617,6 +281646,8 @@ malan520
 malandi
 malandro
 malang
+malankaihua
+malankaihua21
 malanwindy
 malaria
 malatang
@@ -296236,6 +296267,7 @@ nextdoor
 nextel
 nextel1
 nextgen
+NextGen@123
 nextgenupdate
 nextoff
 nextone
@@ -302641,6 +302673,7 @@ p09oi8
 p09oi87u
 p09oi87uy65tr4
 p09op09o
+P0assword123
 p0k3m0n
 p0kem0n
 p0kemon
@@ -305187,6 +305220,7 @@ Passw0rd@!
 Passw0rd@1
 passw0rd@123
 Passw0rd@123
+Passw0rd@123!
 PAssw0rd@123456
 Passw0rd@2013
 Passw0rd@2014
@@ -311106,6 +311140,7 @@ postiga
 postit
 postman
 postman1
+postman123
 postmanpat
 postmast
 postmaster
@@ -318633,6 +318668,7 @@ qwesdf
 qwesdfcv
 qwesdfcvb
 qwesdxc
+qwese
 qwesqwe3
 qwesqwes
 qwest123
@@ -319588,6 +319624,9 @@ Rainbow
 RAINBOW
 rainbow!
 rainbow.
+rainbow@123
+Rainbow@123
+Rainbow@123!
 rainbow001
 rainbow01
 rainbow08
@@ -324257,6 +324296,7 @@ Root@123
 ROOT@123
 root@123-
 root@123-+
+Root@123!
 root@123!@#
 Root@123!@#
 root@123123
@@ -329616,6 +329656,7 @@ Secret
 SECRET
 secret!
 secret.
+Secret@123
 secret@1234$#$
 secret0
 secret00
@@ -329632,7 +329673,9 @@ secret12
 secret123
 Secret123
 SECRET123
+Secret123!
 secret1234
+Secret1234!
 secret12345
 secret123456
 secret13
@@ -329704,6 +329747,9 @@ securite
 security
 Security
 SECURITY
+security@123
+Security@123
+Security@123!
 Security@2017
 security1
 Security1
@@ -341241,6 +341287,7 @@ sueijing
 suellen
 suen78rong
 suenchao
+suerman
 suermuxi
 suerte
 suesue
@@ -342261,7 +342308,10 @@ super
 Super
 SUPER
 super!
+super@123
 Super@123
+super@123!
+Super@123!
 Super*999
 super001
 super007
@@ -342424,6 +342474,7 @@ Superman
 SUPERMAN
 superman!
 superman.
+superman@123
 superman0
 superman00
 superman007
@@ -343730,6 +343781,7 @@ syrup
 sys
 SYS
 sys_admin
+sys@123!
 sys/change_on_install
 sys$admin@028
 SYS1
@@ -344453,9 +344505,12 @@ talaziz111
 talbert
 talbot
 talent
+Talent
 talent!23
 Talent!23
+talent@123
 Talent@123
+Talent@123!
 Talent@123456
 talent1
 talent123
@@ -365510,6 +365565,8 @@ woaini.1314
 woaini.520
 woaini.521
 woaini@
+woaini@123
+woaini@123!
 woaini@1314
 woaini``1
 woaini0
@@ -377898,6 +377955,7 @@ Yongheng
 yongheng88
 yonghengdeai
 yonghong
+yonghu001
 yonghua
 yonghuan
 yonghumima
@@ -387259,14 +387317,3 @@ zzzzzzzzzzzz
 zzzzzzzzzzzzzz
 zzzzzzzzzzzzzzzz
 zzzzzzzzzzzzzzzzzzzz
-78910j
-8910jq
-910jqk
-aistar123
-malankaihua
-malankaihua21
-yonghu001
-gsfkpt
-gsfkpt@123
-gsfkpt123
-NextGen@123
